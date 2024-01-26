@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RighteousMind/static/css/main.8ccd228b.css",
+    "main.js": "/RighteousMind/static/js/main.e9db1c46.js",
+    "static/js/787.da1a91eb.chunk.js": "/RighteousMind/static/js/787.da1a91eb.chunk.js",
+    "index.html": "/RighteousMind/index.html",
+    "main.8ccd228b.css.map": "/RighteousMind/static/css/main.8ccd228b.css.map",
+    "main.e9db1c46.js.map": "/RighteousMind/static/js/main.e9db1c46.js.map",
+    "787.da1a91eb.chunk.js.map": "/RighteousMind/static/js/787.da1a91eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ccd228b.css",
+    "static/js/main.e9db1c46.js"
+  ]
+}
